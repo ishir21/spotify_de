@@ -14,4 +14,4 @@ This data engineering project showcases a complete ETL pipeline built to extract
 **Technologies Used** : Python, Snowflake, AWS, Looker Studio
 ![architecture](architecture.jpg)
 
-![report](spotify report.pdf)
+![report](spotify_report.jpg)
