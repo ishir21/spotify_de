@@ -1,2 +1,2 @@
 # spotify_de
-![architecture](architecutre.jpg)
+![architecture](architecture.jpg)
